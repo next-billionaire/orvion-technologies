@@ -9,7 +9,7 @@ export default function Navbar(){
   return(
     <header className="fixed top-0 w-full bg-white/70 backdrop-blur border-b z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
-        <h1 className="font-bold text-primary text-xl">Arventis</h1>
+        <h1 className="font-bold text-primary text-xl">ORVION</h1>
 
         <nav className="hidden md:flex gap-8">
           {links.map(l=>(
